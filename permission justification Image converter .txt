@@ -1,0 +1,6 @@
+storage:
+This permission is used to store the local information of the extension
+tabs:
+this permission is used to interact with tabs. 
+host permission :
+   this permision is used to working in multiple url.
